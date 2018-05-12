@@ -1,0 +1,32 @@
+_repo: Niilo-Klimin-maanalainen-matka_17127
+_version: 0.1.0
+alternative_title: Nicolai Klimii iter subterraneum. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Johan Ludvig
+    - Holberg, Baron Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: ''
+gutenberg_issued: '2005-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17127'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcc 'PT'
+- !lcsh 'Utopias -- Early works to 1800'
+title: Niilo Klimin maanalainen matka
+url: http://www.gutenberg.org/ebooks/17127
